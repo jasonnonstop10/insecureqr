@@ -23,4 +23,4 @@ Android :
 - Open Epoccam application
 - Get in same wifi as computer (hotspot is ok)
 - YOU ROCK!
-
+- HAHAHA
